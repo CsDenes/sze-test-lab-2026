@@ -21,7 +21,7 @@ source venv/Scripts/activate
 source ./venv/bin/activate
 
 # Telepítsd a szükséges könyvtárakat
-pip install flask pytest
+pip install flask pytest pytest-bdd
 
 ```
 
@@ -34,6 +34,7 @@ flask run
 Majd az alkalmazás böngészőben itt megnyitható: `http://127.0.0.1:5000`
 
 
-Feladatok
+## Feladatok
 
 - [1. labor - TDD](lab_1_tdd/README.md)
+- [2. labor - BDD](lab_2_bdd/README.md)
