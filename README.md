@@ -38,3 +38,7 @@ Majd az alkalmazás böngészőben itt megnyitható: `http://127.0.0.1:5000`
 
 - [1. labor - TDD](lab_1_tdd/README.md)
 - [2. labor - BDD](lab_2_bdd/README.md)
+- [3. labor - Pipeline](lab_3_pipeline/README.md)
+- [4. labor - API tesztek](lab_4_api_tests/README.md)
+- [5. labor - Terheléses tesztek](lab_5_load_tests/README.md)
+- [6. labor - UI tesztek](lab_6_ui_tests/README.md)
